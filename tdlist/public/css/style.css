@@ -1,0 +1,8 @@
+.rooftop{
+	background-color: #e8e8e8;
+	height: 70px;
+	margin: 0 auto;
+	color: #ff4242;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
